@@ -4,7 +4,7 @@
 🌱 Im currently learning how to create web applications and better my computer science skills.<br/>
 💞️ I love to work with math.<br/>
 📫 You can contact me via my email: tthomson22@yahoo.com <br/>
-    Or check out my linkedin: https://www.linkedin.com/in/tyler-thomson-7b9b7822b/ <br/>
+    Or check out my linkedin: https://www.linkedin.com/in/tyler-lee-thomson/ <br/>
 
 💻 My Tech Stack 💻 <br/>
 Frontend: JavaScript, HTML, CSS, React.js, Hooks, Context API, Axios, Yum, Jest, Cypress, Redux <br/>
