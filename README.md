@@ -7,7 +7,7 @@
     Or check out my linkedin: https://www.linkedin.com/in/tyler-lee-thomson/ <br/>
 
 💻 My Tech Stack 💻 <br/>
-Frontend: JavaScript, HTML, CSS, React.js, Hooks, Context API, Axios, Yum, Jest, Cypress, Redux <br/>
+Frontend: JavaScript, HTML, CSS, React.js, Hooks, Context API, Axios, Jest, Cypress, Redux <br/>
 Backend: Node.js, Express, SQL, GitHub, VS Code, Authentication, Authorization <br/>
 Skills: Debugging, Testing, Problem Solving, Teamwork, Algorithms, Math <br/>
 
