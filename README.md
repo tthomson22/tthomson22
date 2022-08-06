@@ -3,7 +3,7 @@
 🚀About Me🚀 <br/>
 🌱 Im currently learning how to create web applications and better my computer science skills.<br/>
 💞️ I love to work with math.<br/>
-📫 You can contact me via my email: tthomson22@yahoo.com <br/>
+📫 You can contact me via my email: tyl.thomson@gmail.com <br/>
     Or check out my linkedin: https://www.linkedin.com/in/tyler-lee-thomson/ <br/>
 
 💻 My Tech Stack 💻 <br/>
